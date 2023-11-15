@@ -1,7 +1,7 @@
 # Loopstudio
 
 * `nvm use 20.6.1` <br />
-* Also set Node version in Language&Framewordk to 20.6.1
+* Also set Node version in Language&Framework to 20.6.1
 * `npm init -y` <br />
 * `npm install tailwindcss@latest` <br />
 * `npx tailwindcss init`
