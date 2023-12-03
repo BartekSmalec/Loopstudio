@@ -16,3 +16,5 @@
   @tailwind utilities;`
 * Create public/index.html
 * `npm run build`
+
+![screencapture-localhost-63342-loopstudio-public-index-html-2023-12-03-23_02_37.png](screenshots%2Fscreencapture-localhost-63342-loopstudio-public-index-html-2023-12-03-23_02_37.png)![screencapture-localhost-63342-loopstudio-public-index-html-2023-12-03-23_03_51.png](screenshots%2Fscreencapture-localhost-63342-loopstudio-public-index-html-2023-12-03-23_03_51.png)
